@@ -13,6 +13,7 @@
 		05CB5F5525EBB0D800EE26A9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05CB5F5325EBB0D800EE26A9 /* LaunchScreen.storyboard */; };
 		05E52D4525EBBF0900C0B509 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 05E52D4325EBBF0900C0B509 /* LICENSE */; };
 		05E52D4625EBBF0900C0B509 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 05E52D4425EBBF0900C0B509 /* .gitignore */; };
+		05E52D4B25EBC3A000C0B509 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 05E52D4A25EBC3A000C0B509 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		05CB5F5625EBB0D800EE26A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		05E52D4325EBBF0900C0B509 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		05E52D4425EBBF0900C0B509 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		05E52D4A25EBC3A000C0B509 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +46,7 @@
 				05CB5F4625EBB0D600EE26A9 /* Products */,
 				05E52D4425EBBF0900C0B509 /* .gitignore */,
 				05E52D4325EBBF0900C0B509 /* LICENSE */,
+				05E52D4A25EBC3A000C0B509 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -126,6 +129,7 @@
 			files = (
 				05E52D4625EBBF0900C0B509 /* .gitignore in Resources */,
 				05E52D4525EBBF0900C0B509 /* LICENSE in Resources */,
+				05E52D4B25EBC3A000C0B509 /* README.md in Resources */,
 				05CB5F5525EBB0D800EE26A9 /* LaunchScreen.storyboard in Resources */,
 				05CB5F5225EBB0D800EE26A9 /* Assets.xcassets in Resources */,
 			);
